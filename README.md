@@ -1,5 +1,7 @@
-# Click: [xuaikun.github.io](https://xuaikun.github.io/)
+# Huaizhen Kou
 
-# 感觉不错给个Star
+# 寇怀振
 
-# Fork之后，链接记得修改哦
+# [Google Scholar](https://scholar.google.com/citations?user=9ylPoCMAAAAJ&hl=zh-CN)
+
+# 欢迎学术交流
