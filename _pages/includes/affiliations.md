@@ -1,8 +1,4 @@
----
-title: ✍️ Academic Affiliations
-permalink: #-affiliations
----
-
+<a name="-affiliations"></a>
 
 # ✍️ Academic Affiliations
 
