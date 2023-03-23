@@ -1,3 +1,9 @@
+---
+title: ✍️ Academic Affiliations
+permalink: #-affiliations
+---
+
+
 # ✍️ Academic Affiliations
 
 - Guest editor for the journal Intelligent and Converged Networks
