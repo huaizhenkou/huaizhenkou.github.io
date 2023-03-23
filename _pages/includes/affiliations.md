@@ -1,5 +1,5 @@
 
-# ✍️ Academic Affiliations 
+# ✍ Academic Affiliations 
 
 - Guest editor for the journal Intelligent and Converged Networks;
 - Reviewer for ACM Transactions on Sensor Networks;
