@@ -1,5 +1,3 @@
-<a name="-affiliations"></a>
-
 # ✍️ Academic Affiliations
 
 - Guest editor for the journal Intelligent and Converged Networks
