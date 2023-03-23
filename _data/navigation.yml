@@ -9,8 +9,8 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Academic Affiliations"
-    url: "/#-academic-affiliations"
+  - title: Academic Affiliations
+  url: /academic-affiliations/
 
   - title: "Educations"
     url: "/#-educations"
