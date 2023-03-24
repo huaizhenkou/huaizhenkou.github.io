@@ -17,4 +17,4 @@ redirect_from:
 
 {% include_relative includes/affiliations.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/educations.md %}
