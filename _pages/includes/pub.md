@@ -3,13 +3,13 @@
 
 - Yang, M., Ge, C., Zhao, X., &#38; `Kou, H. *` (2023). [FSPLO: a fast sensor placement location optimization method for cloud-aided inspection of smart buildings](https://doi.org/10.1186/s13677-023-00410-0). *Journal of Cloud Computing*, 12(1), 1-12.
 
-- `Kou, H.`, Xu, J*., & Qi, L. (2023). [Diversity-driven automated web API recommendation based on implicit requirements](https://doi.org/10.1016/j.asoc.2023.110137). *Applied Soft Computing*, 110137.
+- `Kou, H.`, Xu, J. *, & Qi, L. (2023). [Diversity-driven automated web API recommendation based on implicit requirements](https://doi.org/10.1016/j.asoc.2023.110137). *Applied Soft Computing*, 110137.
 
 - Xie, Y., Zhang, K., `Kou, H.`, & Mokarram, M. J. * (2022). [Private anomaly detection of student health conditions based on wearable sensors in mobile cloud computing](https://doi.org/10.1186/s13677-022-00300-x). *Journal of Cloud Computing*, 11(1), 1-12.
 
 - `Kou, H.`, Liu, H., Duan, Y., Gong, W., Xu, Y., Xu, X., & Qi, L. * (2021). [Building trust/distrust relationships on signed social service network through privacy-aware link prediction process](https://doi.org/10.1016/j.asoc.2020.106942). *Applied Soft Computing*, 100, 106942.
 
-- Wu, S., `Kou, H.`, Lv, C., Huang, W. *, Qi, L., & Wang, H *. (2020). [Service recommendation with high accuracy and diversity](https://doi.org/10.1155/2020/8822992). *Wireless Communications and Mobile Computing*, 2020, 1-10.
+- Wu, S., `Kou, H.`, Lv, C., Huang, W. *, Qi, L., & Wang, H. * (2020). [Service recommendation with high accuracy and diversity](https://doi.org/10.1155/2020/8822992). *Wireless Communications and Mobile Computing*, 2020, 1-10.
 
 - `Kou, H.`, Wang, F., Lv, C., Dong, Z. *, Huang, W., Wang, H. *, & Liu, Y. (2020). [Trust-based missing link prediction in signed social networks with privacy preservation](https://doi.org/10.1155/2020/8849536). *Wireless Communications and Mobile Computing*, 2020, 1-10.
 
