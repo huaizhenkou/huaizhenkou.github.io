@@ -4,4 +4,4 @@ Prior to this, I received my Bachelor of Engineering degree in 2018 from <img sr
 
 To date, I have published 10+ academic papers in e.g. ASC, KBS and other SCI journals and conferences ([Google Scholar](https://scholar.google.com/citations?user=9ylPoCMAAAAJ)), with total citations of over 📊300. Among my published works, there are three highly cited papers. 
 
-Currently, I serve as a guest editor for the journal Intelligent and Converged Networks, and as a reviewer for journals and conferences such as ACM Transactions on Sensor Networks, IEEE Internet of Things, IEEE/ACM Transactions on Computational Biology and Bioinformatics, IEEE UIC 2022, and Scientific Reports.
+Currently, I serve as a guest editor for the journal Intelligent and Converged Networks, and as a reviewer for journals and conferences such as ACM Transactions on Sensor Networks, IEEE Internet of Things Journal, IEEE/ACM Transactions on Computational Biology and Bioinformatics, IEEE UIC 2022, and Scientific Reports.
