@@ -8,5 +8,6 @@
 - Reviewer for ACM Transactions on Intelligent Systems and Technology;
 - PC members of IEEE UIC 2022;
 - PC members of DSAA 2023;
-- Reviewer for Computers and Electrical Engineering ;
+- Reviewer for Computers and Electrical Engineering;
 - Reviewer for Scientific Reports;
+- Reviewer for Information and Software Technology;
