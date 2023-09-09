@@ -1,6 +1,8 @@
 
 # 📝 Publications 
 
+- Liu, Y., Zhou, X., `Kou, H.`, Zhao, Y., Xu, X., Zhang, X., & Qi, L. (2023). [Privacy-Preserving Point-of-Interest Recommendation based on Simplified Graph Convolutional Network for Geological Traveling](https://doi.org/10.1145/3620677). *ACM Transactions on Intelligent Systems and Technology*.
+
 - Yang, M., Ge, C., Zhao, X., &#38; `Kou, H.📧` (2023). [FSPLO: a fast sensor placement location optimization method for cloud-aided inspection of smart buildings](https://doi.org/10.1186/s13677-023-00410-0). *Journal of Cloud Computing*, 12(1), 1-12.
 
 - `Kou, H.`, Xu, J.📧, & Qi, L. (2023). [Diversity-driven automated web API recommendation based on implicit requirements](https://doi.org/10.1016/j.asoc.2023.110137). *Applied Soft Computing*, 110137.
