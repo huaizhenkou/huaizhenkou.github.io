@@ -11,3 +11,4 @@
 - Reviewer for Computers and Electrical Engineering;
 - Reviewer for Scientific Reports;
 - Reviewer for Information and Software Technology;
+- Reviewer for Journal of Systems Architecture;
