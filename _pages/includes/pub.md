@@ -1,6 +1,8 @@
 
 # 📝 Publications 
 
+- Liu H., Li N., `Kou, H.`, Meng S., & Li Q. (2023). [FDRP: federated deep relationship prediction with sequential information](https://link.springer.com/article/10.1007/s11276-023-03530-2). *Wireless Networks*.
+
 - Liu, Y., Zhou, X., `Kou, H.`, Zhao, Y., Xu, X., Zhang, X., & Qi, L. (2023). [Privacy-Preserving Point-of-Interest Recommendation based on Simplified Graph Convolutional Network for Geological Traveling](https://doi.org/10.1145/3620677). *ACM Transactions on Intelligent Systems and Technology*.
 
 - Yang, M., Ge, C., Zhao, X., &#38; `Kou, H.📧` (2023). [FSPLO: a fast sensor placement location optimization method for cloud-aided inspection of smart buildings](https://doi.org/10.1186/s13677-023-00410-0). *Journal of Cloud Computing*, 12(1), 1-12.
