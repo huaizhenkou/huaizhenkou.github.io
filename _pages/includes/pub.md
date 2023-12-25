@@ -1,30 +1,34 @@
 
 # 📝 Publications 
 
-- Liu, H., Li, N., `Kou, H.`, Meng, S., & Li, Q. (2023). [FDRP: federated deep relationship prediction with sequential information](https://link.springer.com/article/10.1007/s11276-023-03530-2). *Wireless Networks*.
+- J. Liu📧, Y. Wang, W. Gong, H. Liu, Y. Xu, & `H. Kou`, "[A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving](https://doi.org/10.1109/TCE.2023.3341227)," in *IEEE Transactions on Consumer Electronics*, 2023.
 
-- Liu, Y., Zhou, X., `Kou, H.`, Zhao, Y., Xu, X., Zhang, X., & Qi, L. (2023). [Privacy-Preserving Point-of-Interest Recommendation based on Simplified Graph Convolutional Network for Geological Traveling](https://doi.org/10.1145/3620677). *ACM Transactions on Intelligent Systems and Technology*.
+- X. Zhao, X. Xu, L. Qi, X. Xia, M. Bilal, W. Gong, & `H. Kou`, "[Unraveling quantum computing system architectures: An extensive survey of cutting-edge paradigms](https://doi.org/10.1016/j.infsof.2023.107380)," in *Information and Software Technology*, 2023.
 
-- Yang, M., Ge, C., Zhao, X., &#38; `Kou, H.📧` (2023). [FSPLO: a fast sensor placement location optimization method for cloud-aided inspection of smart buildings](https://doi.org/10.1186/s13677-023-00410-0). *Journal of Cloud Computing*, 12(1), 1-12.
+- H. Liu, N. Li, `H. Kou`, S. Meng, & Q. Li📧, "[FDRP: federated deep relationship prediction with sequential information](https://doi.org/10.1007/s11276-023-03530-2)," in *Wireless Networks*, 2023.
 
-- `Kou, H.`, Xu, J.📧, & Qi, L. (2023). [Diversity-driven automated web API recommendation based on implicit requirements](https://doi.org/10.1016/j.asoc.2023.110137). *Applied Soft Computing*, 110137.
+- Y. Liu, X. Zhou, `H. Kou`, Y. Zhao, X. Xu, X. Zhang, & L. Qi, "[Privacy-Preserving Point-of-Interest Recommendation based on Simplified Graph Convolutional Network for Geological Traveling](https://doi.org/10.1145/3620677)," in *ACM Transactions on Intelligent Systems and Technology*, 2023.
 
-- Xie, Y., Zhang, K., `Kou, H.`, & Mokarram, M. J.📧 (2022). [Private anomaly detection of student health conditions based on wearable sensors in mobile cloud computing](https://doi.org/10.1186/s13677-022-00300-x). *Journal of Cloud Computing*, 11(1), 1-12.
+- M. Yang, C. Ge, X. Zhao, & `H. Kou📧`, "[FSPLO: a fast sensor placement location optimization method for cloud-aided inspection of smart buildings](https://doi.org/10.1186/s13677-023-00410-0)," in *Journal of Cloud Computing*, 2023.
 
-- `Kou, H.`, Liu, H., Duan, Y., Gong, W., Xu, Y., Xu, X., & Qi, L.📧 (2021). [Building trust/distrust relationships on signed social service network through privacy-aware link prediction process](https://doi.org/10.1016/j.asoc.2020.106942). *Applied Soft Computing*, 100, 106942.
+- `H. Kou`, J. Xu📧, & L. Qi, "[Diversity-driven automated web API recommendation based on implicit requirements](https://doi.org/10.1016/j.asoc.2023.110137)," in *Applied Soft Computing*, 2023.
 
-- Wu, S., `Kou, H.`, Lv, C., Huang, W.📧, Qi, L., & Wang, H.📧 (2020). [Service recommendation with high accuracy and diversity](https://doi.org/10.1155/2020/8822992). *Wireless Communications and Mobile Computing*, 2020, 1-10.
+- Y. Xie, K. Zhang, `H. Kou`, & M. J. Mokarram📧, "[Private anomaly detection of student health conditions based on wearable sensors in mobile cloud computing](https://doi.org/10.1186/s13677-022-00300-x)," in *Journal of Cloud Computing*, 2022.
 
-- `Kou, H.`, Wang, F., Lv, C., Dong, Z.📧, Huang, W., Wang, H.📧, & Liu, Y. (2020). [Trust-based missing link prediction in signed social networks with privacy preservation](https://doi.org/10.1155/2020/8849536). *Wireless Communications and Mobile Computing*, 2020, 1-10.
+- `H. Kou`, H. Liu, Y. Duan, W. Gong, Y. Xu, X. Xu, & L. Qi📧, "[Building trust/distrust relationships on signed social service network through privacy-aware link prediction process](https://doi.org/10.1016/j.asoc.2020.106942)," in *Applied Soft Computing*, 2021.
 
-- Wang, L., Zhang, X., Wang, R., Yan, C., `Kou, H.`, & Qi, L.📧 (2020). [Diversified service recommendation with high accuracy and efficiency](https://doi.org/10.1016/j.knosys.2020.106196). *Knowledge-Based Systems*, 204, 106196.
+- S. Wu, `H. Kou`, C. Lv, W. Huang📧, L. Qi, & H. Wang📧, "[Service recommendation with high accuracy and diversity](https://doi.org/10.1155/2020/8822992)," in *Wireless Communications and Mobile Computing*, 2020.
 
-- Liu, H., `Kou, H.`, Yan, C., & Qi, L.📧 (2020). [Keywords-driven and popularity-aware paper recommendation based on undirected paper citation graph](https://doi.org/10.1155/2020/2085638). *Complexity*, 2020.
+- `H. Kou`, F. Wang, C. Lv, Z. Dong📧, W. Huang, H. Wang📧, & Y. Liu, "[Trust-based missing link prediction in signed social networks with privacy preservation](https://doi.org/10.1155/2020/8849536)," in *Wireless Communications and Mobile Computing*, 2020.
 
-- Liu, H., `Kou, H.`, Yan, C., & Qi, L.📧 (2019). [Link prediction in paper citation network to construct paper correlation graph](https://doi.org/10.1186/s13638-019-1561-7). *EURASIP Journal on Wireless Communications and Networking*, 2019(1), 1-12.
+- L. Wang, X. Zhang, R. Wang, C. Yan, `H. Kou`, & L. Qi.📧, "[Diversified service recommendation with high accuracy and efficiency](https://doi.org/10.1016/j.knosys.2020.106196)," in *Knowledge-Based Systems*, 2020.
 
-- Sun, Z., `Kou, H.`, & Huang, W.📧 (2019). [Privacy-aware friend finding in social network based on thumbs-up data](https://doi.org/10.1186/s13638-019-1538-6). *EURASIP Journal on Wireless Communications and Networking*, 2019, 1-8.
+- H. Liu, `H. Kou`, C. Yan, & L. Qi📧, "[Keywords-driven and popularity-aware paper recommendation based on undirected paper citation graph](https://doi.org/10.1155/2020/2085638)," in *Complexity*, 2020.
 
-- Chi, X., Yan, C., `Kou, H.`, & Qi, L.📧 (2019, August). [Accuracy-Aware Service Recommendation with Privacy. In 2019 18th IEEE International Conference On Trust](https://doi.org/10.1109/TrustCom/BigDataSE.2019.00106), *Security And Privacy In Computing And Communications/13th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)* (pp. 740-745). IEEE.
+- H. Liu, `H. Kou`, C. Yan, & L. Qi📧, "[Link prediction in paper citation network to construct paper correlation graph](https://doi.org/10.1186/s13638-019-1561-7)," in *EURASIP Journal on Wireless Communications and Networking*, 2019.
 
-- Liu, H., `Kou, H.`, Chi, X., & Qi, L.📧 (2019, July). [Combining time, keywords and authors information to construct papers correlation graph (S)](https://www.researchgate.net/profile/Hanwen-Liu-7/publication/335155070_Combining_time_keywords_and_authors_information_to_construct_papers_correlation_graph_S/links/60595d39458515e834645299/Combining-time-keywords-and-authors-information-to-construct-papers-correlation-graph-S.pdf). In *SEKE* (Vol. 19, pp. 11-19).
+- Z. Sun, `H. Kou`, & W. Huang📧, "[Privacy-aware friend finding in social network based on thumbs-up data](https://doi.org/10.1186/s13638-019-1538-6)," in *EURASIP Journal on Wireless Communications and Networking*, 2019.
+
+- X. Chi, C. Yan, `H. Kou`, & L. Qi📧, "[Accuracy-Aware Service Recommendation with Privacy. In 2019 18th IEEE International Conference On Trust](https://doi.org/10.1109/TrustCom/BigDataSE.2019.00106)," in *Security And Privacy In Computing And Communications/13th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE)*, 2019.
+
+- H. Liu, `H. Kou`, X. Chi, & L. Qi📧, "[Combining time, keywords and authors information to construct papers correlation graph (S)](https://www.researchgate.net/profile/Hanwen-Liu-7/publication/335155070_Combining_time_keywords_and_authors_information_to_construct_papers_correlation_graph_S/links/60595d39458515e834645299/Combining-time-keywords-and-authors-information-to-construct-papers-correlation-graph-S.pdf)," in *SEKE*, 2019.
