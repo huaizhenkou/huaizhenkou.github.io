@@ -1,6 +1,12 @@
 
 # 📝 Publications 
 
+- H. Liu, N. Li, `H. Kou`, S. Meng, Q. Li, "[FSRPCL: Privacy-preserve federated social relationship prediction with contrastive learning](https://doi.org/10.26599/TST.2024.90100XX)," in *Tsinghua Science and Technology*, 2024.
+
+- W. Lin, X. Zhou, L. Sun, L. Qi, S. Tsai, Y. Yang, H. Liu, `H. Kou`, L. Kong, "[A Locality-Sensitive Hashing based Collaborative Recommendation Method for Responsible AI Driven Recommender Systems](https://doi.org/10.1109/TAI.2024.3381571)," in *IEEE Transactions on Artificial Intelligence*, 2024. 
+
+- X. Zhao, X. Xu, L. Qi, X. Xia, M. Bilal, W. Gong, `H. Kou`, "[Unraveling quantum computing system architectures: An extensive survey of cutting-edge paradigms](https://doi.org/10.1016/j.infsof.2023.107380)," in *Information and Software Technology*, 2024.
+
 - J. Liu📧, Y. Wang, W. Gong, H. Liu, Y. Xu, & `H. Kou`, "[A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving](https://doi.org/10.1109/TCE.2023.3341227)," in *IEEE Transactions on Consumer Electronics*, 2023.
 
 - X. Zhao, X. Xu, L. Qi, X. Xia, M. Bilal, W. Gong, & `H. Kou`, "[Unraveling quantum computing system architectures: An extensive survey of cutting-edge paradigms](https://doi.org/10.1016/j.infsof.2023.107380)," in *Information and Software Technology*, 2023.
