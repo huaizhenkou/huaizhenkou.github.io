@@ -9,8 +9,6 @@
 
 - J. Liu📧, Y. Wang, W. Gong, H. Liu, Y. Xu, & `H. Kou`, "[A Smart Data Driven Multi-Level Synchronous Digital Twin Model for Vehicle-Assisted Driving](https://doi.org/10.1109/TCE.2023.3341227)," in *IEEE Transactions on Consumer Electronics*, 2023.
 
-- X. Zhao, X. Xu, L. Qi, X. Xia, M. Bilal, W. Gong, & `H. Kou`, "[Unraveling quantum computing system architectures: An extensive survey of cutting-edge paradigms](https://doi.org/10.1016/j.infsof.2023.107380)," in *Information and Software Technology*, 2023.
-
 - H. Liu, N. Li, `H. Kou`, S. Meng, & Q. Li📧, "[FDRP: federated deep relationship prediction with sequential information](https://doi.org/10.1007/s11276-023-03530-2)," in *Wireless Networks*, 2023.
 
 - Y. Liu, X. Zhou, `H. Kou`, Y. Zhao, X. Xu, X. Zhang, & L. Qi, "[Privacy-Preserving Point-of-Interest Recommendation based on Simplified Graph Convolutional Network for Geological Traveling](https://doi.org/10.1145/3620677)," in *ACM Transactions on Intelligent Systems and Technology*, 2023.
